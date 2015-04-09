@@ -1,0 +1,29 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+本项目是一套基于安卓的局域网聊天、文件传送飞鸽传书项目源码一款代替数据线和蓝牙的无线文件传输工具，实现了通过wifi连接进行聊天和文件传送功能。不同设备连接到同一个wifi热点，并且成功获取局域网中每个在线用户的信息之后。就可以在它们之间互传文件，无需流量。本项目注释很丰富，是学习和研究安卓文件操作、wifi连接、tcp和udp通信的很好的例子，也可以在本项目基础上做二次开发。
+涉及模块&技术
+文件浏览
+wifi连接
+Tcp文件发送
+UDP通信
+...
